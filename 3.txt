@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main
+=======
+other
+>>>>>>> c817e8899ecefb7c9ffabbaf4328e145add93f9a
